@@ -8,7 +8,7 @@ function writePassword() {
 
 //arays of uppercase and lowercase
 
-var possibleCharacter = [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+]
+var possibleCharacter = []
 
 //Create generatePassword
 //Prompt user for password length
